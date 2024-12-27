@@ -3,11 +3,11 @@ This is a repository containing the [notebook](https://github.com/Taiwo-Rachael/
 
 # Project Steps  
 
-#### 🧹 🧹 1. Data Cleaning   
+#### 1. Data Cleaning  🧹 🧹
 The dataset used for this project contained 3,122 news article titles and their corresponding website URLs. 
 The initial cleaning of the dataset involved handling null values and duplicates. 90 duplicate articles were found and dropped to enhance data quality. 
 
-#### 📝 2. Preprocessing Articles  
+#### 2. Preprocessing Articles 📝  
 To preprocess the news articles, a custom function was defined to:  
 - Convert text to lowercase  
 - Remove punctuation and special characters  
